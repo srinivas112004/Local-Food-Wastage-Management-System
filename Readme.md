@@ -43,8 +43,7 @@ local_food_wastage_system/
 │   └── claims_data.csv      # Food claim records
 ├── utils/                  # Utility modules
 │   ├── __pycache__/
-│   └── db.py               # Database connection utilities
-├── output_q*.csv           # Generated analytical query results (auto-generated)
+│   └── db.py               # Database connection utilities          
 ├── __pycache__/            # Python cache files
 └── video/                  # Demo videos (if any)
 ```
